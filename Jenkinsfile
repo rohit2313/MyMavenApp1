@@ -7,7 +7,7 @@ ipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/SHASHANK9060/MyMavenApp.git'
+                git branch: 'master', url: 'https://github.com/rohit2313/MyMavenApp1.git'
             }
         }
 
